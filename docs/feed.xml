@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://jaacosta.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://jaacosta.com/" rel="alternate" type="text/html" /><updated>2020-02-04T20:58:11-04:00</updated><id>https://jaacosta.com/feed.xml</id><title type="html">José Angel Acosta</title><subtitle>Ingenieria.</subtitle><author><name>Jose Angel Acosta </name></author><entry><title type="html">Peripheral Tunnels Propeller With Alternative Balance</title><link href="https://jaacosta.com/ptp-alt-bal" rel="alternate" type="text/html" title="Peripheral Tunnels Propeller With Alternative Balance" /><published>2019-08-27T00:00:00-04:00</published><updated>2019-08-27T00:00:00-04:00</updated><id>https://jaacosta.com/ptp-alt-bal</id><content type="html" xml:base="https://jaacosta.com/ptp-alt-bal">&lt;dl&gt;
+  &lt;dt&gt;Update&lt;/dt&gt;
+  &lt;dd&gt;[August 27 th 2019]: &lt;strong&gt;&lt;em&gt;Patented&lt;/em&gt;&lt;/strong&gt; this invention is now the US. Pat. 10392087 B2.
+Today the USPTO published my second granted patent ( &lt;i&gt;US10392087 B2&lt;/i&gt;) related to the peripheral tunnel propeller.
+&lt;img src=&quot;assets/US10392087B2.png&quot; alt=&quot;US20170088244 A1&quot; title=&quot;Peripheral Tunnels Propeller With Alternative Balance&quot; class=&quot;drafts&quot; aling=&quot;left&quot; style=&quot;width: 54%; float: left;margin: 5px 10px 0 10px&quot; /&gt;
+The new disclosures, my patent US9157324 about the Peripheral Tunnel Propeller, discloses:
+    &lt;blockquote&gt;
+      &lt;p&gt;Also, the &lt;strong&gt;modulating torque&lt;/strong&gt; of this propeller maybe used to mimic the noise of other devices to the disguise of the machine’s natural sounds.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Of course the disclosure do not foresee Alternative (variable) Balance as mechanism to modulate the propeller’s torque, neither discloses where such mechanism should be installed, from my research nobody has ever used alternative propeller balance in order to modulate the torque at the shaft, notwithstanding while active balance devices have been used previously, those devices does not foresee a purpose for such ‘collateral torque variation’ introduced while the propeller balance its shifted.
+The new Patent also discloses new construction methods related to the cross-section shape which now may start at one end as substantially rounded progressively being reshaped into an oval shape, this shape (not anticipated also) eases manufacturing while retaining most of the conditions needed to avoid turbulence generation as detailed in the patent ‘324, now in both configurations with conical or cylindrical peripheral tunnels.
+Another innovation related to Peripheral Tunnels Propeller is to install the balance device inside the gap among each pair of adjacent tunnels, to date no propeller design installs a balance device inside the gap among tunnels, no previous art even considers such possibility, as the ‘balance devices’ used to be temporally installed and not permanent functional devices.
+Another disclosure is to use multiple balance devices each compensating the imbalance introduced by another while the concurrent operation effectively modulates torque without actual modification of the propeller balance.` ,;’/ &lt;br /&gt;
+Link to the granted  patent document US10392087 B2 at the USPTO &lt;a href=&quot;http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;amp;Sect2=HITOFF&amp;amp;d=PG01&amp;amp;p=1&amp;amp;u=/netahtml/PTO/srchnum.html&amp;amp;r=1&amp;amp;f=G&amp;amp;l=50&amp;amp;s1=20170088244.PGNR.&amp;amp;OS=DN/20170088244&amp;amp;RS=DN/20170088244&quot; target=&quot;_blank&quot;&gt;USPTO Publication US 10392087 B2&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;ja&quot;&gt;J.A.&lt;/h4&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;acostaja@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;J. A. Acosta&quot;}</name><email>acostaja@gmail.com</email></author><category term="Patented" /><category term="PTP" /><category term="Active" /><summary type="html">Update [August 27 th 2019]: Patented this invention is now the US. Pat. 10392087 B2. Today the USPTO published my second granted patent ( US10392087 B2) related to the peripheral tunnel propeller. The new disclosures, my patent US9157324 about the Peripheral Tunnel Propeller, discloses: Also, the modulating torque of this propeller maybe used to mimic the noise of other devices to the disguise of the machine’s natural sounds.</summary></entry><entry><title type="html">F.A.Q. About the Peripheral Tunnels Propeller</title><link href="https://jaacosta.com/f-a-q" rel="alternate" type="text/html" title="F.A.Q. About the Peripheral Tunnels Propeller" /><published>2019-08-07T00:00:00-04:00</published><updated>2019-08-07T00:00:00-04:00</updated><id>https://jaacosta.com/f-a-q-about-the-peripheral-tunnels-propeller</id><content type="html" xml:base="https://jaacosta.com/f-a-q">&lt;h2 id=&quot;frequently-asked-questions&quot;&gt;Frequently Asked Questions&lt;/h2&gt;
+&lt;hr /&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;It is  Patented Yet?&lt;/dt&gt;
+  &lt;dd&gt;- I have TWO UTILITY PATENTS, first one issued 2015 as US9157324 &lt;a href=&quot;https://encrypted.google.com/patents/US9157324&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;(Google Patents US9157324) &lt;/a&gt; and the latest issued August 27 2019 as US10392087 &lt;a href=&quot;https://www.google.com/patents/US10392087&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot;&gt;(Google Patents US20170088244)&lt;/a&gt;&lt;/dd&gt;
+  &lt;dt&gt;Its just an idea, or it has been tested, do you have working prototypes?&lt;/dt&gt;
+  &lt;dd&gt;- I have successfully tested embodied as a PC Cooling Fan since 2006, delivering its promises, calibrated professional audio/performance test where made while on patent prosecution.&lt;/dd&gt;
+  &lt;dt&gt;How about its R&amp;amp;D Progress?&lt;/dt&gt;
+  &lt;dd&gt;- R\&amp;amp;D is quite advanced, I can provide 3-D Files to manufacture most applications in just few days, since I also developed my custom 3D CAD solution for this challenging shape.&lt;/dd&gt;
+  &lt;dt&gt;It is more Efficient?&lt;/dt&gt;
+  &lt;dd&gt;- same performance/power ratio as bladed impellers, While the design may face more friction, the same is in excess compensated by an much better laminar flow..&lt;/dd&gt;
+  &lt;dt&gt;Does it Spin Faster or Slower than similar fans?&lt;/dt&gt;
+  &lt;dd&gt;- It provides the same performance (measured in CFM) at about 15-25% higher spin speed.&lt;/dd&gt;
+  &lt;dt&gt;How does it manages to be quieter when spinning faster (its against conventional noise teachings)?&lt;/dt&gt;
+  &lt;dd&gt;- The particular cross-section of the fluid passage (circular cross section in perpendicular plane to the rotational axis) avoid transforming the fluid volume’s shape while the impeller spins, source of the typical ‘brawn’ noise, only friction/vibration noise remains much easier to mitigate.
+Also the new Patent provides to install permanently an active balance system to the propeller not just to balance the propeller but also to provide on purpose unbalanced condition when this unbalance matches a noise cancellation sound or when is required to “un-hide” the propeller to avoid it to be profiled or to take away living beings.&lt;/dd&gt;
+  &lt;dt&gt;Does it can be “printed” using Molds and Thermoplastics or only 3-D printed?&lt;/dt&gt;
+  &lt;dd&gt;- Both Methods are suitable to manufacture these impellers, “printing” it with thermoplastic demands an more complex mold/de-mold setup but nothing out this world.&lt;/dd&gt;
+  &lt;dt&gt;Do you accept a Business Proposal?&lt;/dt&gt;
+  &lt;dd&gt;Maybe, use the provided contact form &lt;strong&gt;&lt;em&gt;LINK&lt;/em&gt;&lt;/strong&gt;&lt;/dd&gt;
+  &lt;dt&gt;May it be peer-reviewed?&lt;/dt&gt;
+  &lt;dd&gt;To Easy trust and understand my technology I ‘m ready to provide to qualified partner prospect with PROTOTYPES on NO COMPROMISE (just an NDA  on provisions to not transfer anything to 3rd and in case not reaching partnership agreement or license, to destroy and delete anything related), this way Investors could verify the facts about my technology and have a tangible prime experience with the Peripheral Tunnel Propeller.
+&lt;strong&gt;TO BE A QUALIFIED PARTNER&lt;/strong&gt;, an CONTACT ME IN FORMAL LETTER which should be sent with: Company, associated names, address, Why you think you are a good Partner, Capital Available, Network/Marketing resources, some history about your experience in something related.
+Some Partner Prospect will be provided with working PC Fan or Directions and 3-D files to easy and fast build a prototype (depend on time/location/customs/etc). &lt;strong&gt;I keep right to disqualify any partnership proposal on my own criteria.&lt;/strong&gt;&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;h4 id=&quot;have-a-question-unanswered-contact-me-ill-be-happy-to-answer-it-asap&quot;&gt;Have a Question Unanswered? contact me, I'll be happy to answer it ASAP.&lt;/h4&gt;
+
+&lt;h4 id=&quot;ja&quot;&gt;J.A.&lt;/h4&gt;</content><author><name>{&quot;login&quot;=&gt;&quot;acostaja2013&quot;, &quot;email&quot;=&gt;&quot;acostaja@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;J. A. Acosta&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}</name><email>acostaja@gmail.com</email></author><summary type="html">Frequently Asked Questions It is  Patented Yet? - I have TWO UTILITY PATENTS, first one issued 2015 as US9157324 (Google Patents US9157324) and the latest issued August 27 2019 as US10392087 (Google Patents US20170088244)</summary></entry><entry><title type="html">Peripheral Tunnel Propeller vs Bladed Propeller 3D Animation</title><link href="https://jaacosta.com/ptp_vs_fan" rel="alternate" type="text/html" title="Peripheral Tunnel Propeller vs Bladed Propeller 3D Animation" /><published>2017-07-14T00:00:00-04:00</published><updated>2017-07-14T00:00:00-04:00</updated><id>https://jaacosta.com/peripheral-tunnel-propeller-vs-bladed-propeller-3d-animation</id><content type="html" xml:base="https://jaacosta.com/ptp_vs_fan">&lt;h2 id=&quot;peripheral-tunnels-propeller-embodied-as-a-computer-fan-vs-bladed-propeller&quot;&gt;Peripheral Tunnels Propeller Embodied as a Computer Fan vs Bladed Propeller&lt;/h2&gt;
+&lt;div class=&quot;embed-responsive embed-responsive-16by9&quot;&gt;
+&lt;iframe class=&quot;youtube-player&quot; type=&quot;text/html&quot; src=&quot;https://www.youtube.com/embed/tFGmAMErY6k?version=3&amp;amp;rel=1&amp;amp;fs=1&amp;amp;autohide=2&amp;amp;showsearch=0&amp;amp;showinfo=1&amp;amp;iv_load_policy=1&amp;amp;wmode=transparent&quot; allowfullscreen=&quot;true&quot; style=&quot;text-align:center; display: block; margin: 0px; width: 680px; height: 383px;border-radius: 8px; border: 1px solid rgb(0, 0, 0); padding: 5px;&quot; data-ratio=&quot;0.5632352941176471&quot; data-width=&quot;680&quot; data-height=&quot;383&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;p&gt;Look at what happens when the gas molecules faces the constant circular section from the Peripheral Tunnels Propeller, when a circular container matches a circular content, the latter isn’t perturbed as the container rotates since the container shape relative to it’s content its the same at any angle.&lt;/p&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;acostaja@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;J. A. Acosta&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}</name><email>acostaja@gmail.com</email></author><category term="YouTube" /><category term="PTP" /><category term="3-D" /><summary type="html">Peripheral Tunnels Propeller Embodied as a Computer Fan vs Bladed Propeller Look at what happens when the gas molecules faces the constant circular section from the Peripheral Tunnels Propeller, when a circular container matches a circular content, the latter isn’t perturbed as the container rotates since the container shape relative to it’s content its the same at any angle.</summary></entry><entry><title type="html">The Peripheral Tunnels Propeller, Pat. US 9157324 B2</title><link href="https://jaacosta.com/wtp" rel="alternate" type="text/html" title="The Peripheral Tunnels Propeller, Pat. US 9157324 B2" /><published>2015-10-13T00:00:00-04:30</published><updated>2015-10-13T00:00:00-04:30</updated><id>https://jaacosta.com/wtp</id><content type="html" xml:base="https://jaacosta.com/wtp">&lt;p&gt;The Patent for My &lt;strong&gt;Peripheral Tunnels Propeller&lt;/strong&gt; invention, have been issued by the USPTO on October 13th, 2015  with &lt;strong&gt;Patent Number US 9,157,324 B2&lt;/strong&gt;, having as earliest publication date January 27th, 2011, and as priority date&lt;strong&gt;(provisional related application)&lt;/strong&gt; from July 23, 2009.
+  [ &lt;a href=&quot;http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&amp;amp;Sect2=HITOFF&amp;amp;d=PALL&amp;amp;p=1&amp;amp;u=%2Fnetahtml%2FPTO%2Fsrchnum.htm&amp;amp;r=1&amp;amp;f=G&amp;amp;l=50&amp;amp;s1=9157324.PN.&amp;amp;OS=PN/9157324&amp;amp;RS=PN/9157324&quot; class=&quot;drafts&quot; style=&quot;text-align:center;&quot; target=&quot;_blank&quot;&gt;Patent US 9,157,324 B2 at USPTO.gov&lt;/a&gt; ]
+&lt;img src=&quot;assets/US9157324B2.jpg&quot; alt=&quot;US9157324B2&quot; class=&quot;drafts&quot; aling=&quot;left&quot; style=&quot;width: 54%; float: left;margin: 5px 10px 0 10px;&quot; /&gt;&lt;/p&gt;
+&lt;h4 id=&quot;notice&quot;&gt;NOTICE&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;:35 U.S.C. § 154(d)&lt;/strong&gt; about provisional rights under pre-AIA  stands: &lt;em&gt;“a patent shall include the right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b)”&lt;/em&gt;, Accordingly &lt;em&gt;an entity&lt;/em&gt; making use of this invention in USA &lt;strong&gt;from January 27th, 2011&lt;/strong&gt; is committed to reach us and negotiate an compensation on &lt;strong&gt;due royalties&lt;/strong&gt;, &lt;em&gt;I’m considering special NDA agreements in case is required non disclosure to related works or activities,&lt;/em&gt; off course this offering is limited by the time this patent is not assigned to an third party, so any entity should contact me as soon as possible, to avoid further exposition or potentially having to deal with other  assignee, or having to pay other expenses and compensation related to legal proceedings.&lt;/p&gt;
+
+&lt;p&gt;Please if you have any Information requests use the contact form provided &lt;a href=&quot;contact_me&quot;&gt;Contact Form&lt;/a&gt;  I can provide besides the Patent License, related Know-How services and CAD tools to generate the required 3-D Solid Models for optimal modeling/build this particular propeller.&lt;/p&gt;
+
+&lt;h4 id=&quot;ja&quot;&gt;J.A.&lt;/h4&gt;</content><author><name>{&quot;display_name&quot;=&gt;&quot;J. A. Acosta&quot;}</name></author><category term="Patented" /><category term="PTP" /><category term="Active" /><summary type="html">The Patent for My Peripheral Tunnels Propeller invention, have been issued by the USPTO on October 13th, 2015  with Patent Number US 9,157,324 B2, having as earliest publication date January 27th, 2011, and as priority date(provisional related application) from July 23, 2009. [ Patent US 9,157,324 B2 at USPTO.gov ] NOTICE :35 U.S.C. § 154(d) about provisional rights under pre-AIA  stands: “a patent shall include the right to obtain a reasonable royalty from any person who, during the period beginning on the date of publication of the application for such patent under section 122(b)”, Accordingly an entity making use of this invention in USA from January 27th, 2011 is committed to reach us and negotiate an compensation on due royalties, I’m considering special NDA agreements in case is required non disclosure to related works or activities, off course this offering is limited by the time this patent is not assigned to an third party, so any entity should contact me as soon as possible, to avoid further exposition or potentially having to deal with other  assignee, or having to pay other expenses and compensation related to legal proceedings.</summary></entry><entry><title type="html">The Peripheral Tunnels Propeller</title><link href="https://jaacosta.com/apl-wtp" rel="alternate" type="text/html" title="The Peripheral Tunnels Propeller" /><published>2014-10-02T00:00:00-04:30</published><updated>2014-10-02T00:00:00-04:30</updated><id>https://jaacosta.com/apl-wtp</id><content type="html" xml:base="https://jaacosta.com/apl-wtp">&lt;p&gt;&lt;strong&gt;&lt;em&gt;This is my current main project:&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center;&quot;&gt; &lt;strong&gt; The Peripheral Tunnels Propeller&lt;/strong&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;assets/fig1.jpg&quot; alt=&quot;Peripheral Tunnel Propeller Cutaway&quot; title=&quot;Peripheral Tunnel Propeller Cutawa&quot; class=&quot;drafts&quot; aling=&quot;left&quot; style=&quot;width: 268px; float: left;margin: 5px 25px 0 0&quot; /&gt;
+This is an Ultra Quiet propeller I invented, Its based on my disclosure of the principle that fluid inside barrels could be accelerated with the minimal turbulence due parasite flows.
+This project is on &lt;strong&gt;PATENT PENDING&lt;/strong&gt;.
+The Following is a more formal Abstract on what is, and how it works:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Quiet Propeller Design Disclosure&lt;/em&gt; , which consists on a Barrel drilled with spirals Peripheral Tunnels..&lt;/li&gt;
+  &lt;li&gt;It main feature is  &lt;em&gt;Quiet Operation&lt;/em&gt; , this is achieved thanks to the minimal turbulence induced by the tunnels while accelerates/decelerates the liquid or gas, also due the high strength of the device minimize torsional flexions, avoiding noise generation due flexion or deformation and collateral fatigue damage.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;other-features-are&quot;&gt;Other features are:&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Allows&lt;/em&gt;  build on  &lt;em&gt;exotic materials&lt;/em&gt;  for a Propeller, as  &lt;em&gt;Ceramics, thermoplastic, Aluminum. Honey-Comb composite,  a combination of both, much more.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Easy mass-production with current well known techniques and modeling tools, at any size scale and any production volume.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Inherent Safe operation&lt;/em&gt; , the external barrel shape, doesn’t present edges that hooks or cuts surrounding objects, animals or people, also the inners propeller intakes may be easy protected with minimal performance degradation.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;More reliable and durable&lt;/em&gt; , the inherent high strength and the circular shape minimizes the damage that impacting objects from   surroundings could do, allowing easy survival to impacts that easy would to destroy a bladed propeller.&lt;/li&gt;
+  &lt;li&gt;Here is in more Detail a PDF that contains the Non-Provisional Patent Application at USPTO:
+&lt;a href=&quot;https://patents.google.com/patent/US9157324B2/en&quot; target=&quot;_blank&quot;&gt;NON-PROVISIONAL PATENT FILLING AT USPTO (Google Patents)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;ja&quot;&gt;J.A.&lt;/h4&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;acostaja@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;J. A. Acosta&quot;}</name><email>acostaja@gmail.com</email></author><category term="Patented" /><category term="PTP" /><category term="Active" /><summary type="html">This is my current main project: The Peripheral Tunnels Propeller This is an Ultra Quiet propeller I invented, Its based on my disclosure of the principle that fluid inside barrels could be accelerated with the minimal turbulence due parasite flows. This project is on PATENT PENDING. The Following is a more formal Abstract on what is, and how it works: Quiet Propeller Design Disclosure , which consists on a Barrel drilled with spirals Peripheral Tunnels.. It main feature is Quiet Operation , this is achieved thanks to the minimal turbulence induced by the tunnels while accelerates/decelerates the liquid or gas, also due the high strength of the device minimize torsional flexions, avoiding noise generation due flexion or deformation and collateral fatigue damage.</summary></entry><entry><title type="html">The Sun is always On</title><link href="https://jaacosta.com/the-sun-is-always-on" rel="alternate" type="text/html" title="The Sun is always On" /><published>2013-03-21T00:00:00-04:30</published><updated>2013-03-21T00:00:00-04:30</updated><id>https://jaacosta.com/the-sun-is-always-on</id><content type="html" xml:base="https://jaacosta.com/the-sun-is-always-on">&lt;blockquote&gt;
+&lt;address style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;T&lt;/strong&gt;he Sun never shutoff, if you need it, move to where no obstacles blocks to you,  and will shine for you every day of your life.&lt;/address&gt;
+&lt;address style=&quot;text-align:center;&quot;&gt;&lt;span style=&quot;text-decoration:line-through;&quot;&gt;           &lt;/span&gt; o &lt;span style=&quot;text-decoration:line-through;&quot;&gt;&lt;span style=&quot;text-decoration:line-through;&quot;&gt;          &lt;/span&gt;&lt;/span&gt;&lt;/address&gt;
+&lt;address style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;E&lt;/strong&gt;l Sol nunca se apaga, si lo necesitas, mudate donde ningún obstáculo lo bloquee para ti, y brillará para ti cada día de tu vida.&lt;/address&gt;
+&lt;/blockquote&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;acostaja@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;J. A. Acosta&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}</name><email>acostaja@gmail.com</email></author><summary type="html">The Sun never shutoff, if you need it, move to where no obstacles blocks to you,  and will shine for you every day of your life.             o            El Sol nunca se apaga, si lo necesitas, mudate donde ningún obstáculo lo bloquee para ti, y brillará para ti cada día de tu vida.</summary></entry><entry><title type="html">Forgive / Detach</title><link href="https://jaacosta.com/forivedetach" rel="alternate" type="text/html" title="Forgive / Detach" /><published>2013-03-20T00:00:00-04:30</published><updated>2013-03-20T00:00:00-04:30</updated><id>https://jaacosta.com/quote-2</id><content type="html" xml:base="https://jaacosta.com/forivedetach">&lt;blockquote&gt;
+&lt;address style=&quot;text-align:left;&quot;&gt;&lt;strong&gt; O&lt;/strong&gt;ne who is sure of his power can forgive without fear, as one conscious of his transitoriness can understand detachment.&lt;/address&gt;
+&lt;address style=&quot;text-align:center;&quot;&gt;&lt;span style=&quot;text-decoration:line-through;&quot;&gt;           &lt;/span&gt; o &lt;span style=&quot;text-decoration:line-through;&quot;&gt;&lt;span style=&quot;text-decoration:line-through;&quot;&gt;          &lt;/span&gt;&lt;/span&gt;&lt;/address&gt;
+&lt;address style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;A&lt;/strong&gt;quel que esta seguro de su poder puede perdonar sin miedo,como aquel consciente de su transitoriedad es capaz de comprender el desapego.&lt;/address&gt;
+&lt;/blockquote&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;acostaja@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;J. A. Acosta&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}</name><email>acostaja@gmail.com</email></author><summary type="html">One who is sure of his power can forgive without fear, as one conscious of his transitoriness can understand detachment.             o            Aquel que esta seguro de su poder puede perdonar sin miedo,como aquel consciente de su transitoriedad es capaz de comprender el desapego.</summary></entry><entry><title type="html">Winner, Losers and Character</title><link href="https://jaacosta.com/winners-losers" rel="alternate" type="text/html" title="Winner, Losers and Character" /><published>2013-03-15T00:00:00-04:30</published><updated>2013-03-15T00:00:00-04:30</updated><id>https://jaacosta.com/quote</id><content type="html" xml:base="https://jaacosta.com/winners-losers">&lt;blockquote&gt;
+&lt;address style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;T&lt;/strong&gt;he main difference among winners and losers is the Character.&lt;/address&gt;
+&lt;address style=&quot;text-align:center;&quot;&gt;&lt;span style=&quot;text-decoration:line-through;&quot;&gt;           &lt;/span&gt; o &lt;span style=&quot;text-decoration:line-through;&quot;&gt;&lt;span style=&quot;text-decoration:line-through;&quot;&gt;          &lt;/span&gt;&lt;/span&gt;&lt;/address&gt;
+&lt;address style=&quot;text-align:left;&quot;&gt;&lt;strong&gt;L&lt;/strong&gt;a principal diferencia entre triunfadores y mediocres es el Carácter&lt;/address&gt;
+&lt;/blockquote&gt;</content><author><name>{&quot;email&quot;=&gt;&quot;acostaja@gmail.com&quot;, &quot;display_name&quot;=&gt;&quot;J. A. Acosta&quot;, &quot;first_name&quot;=&gt;&quot;&quot;, &quot;last_name&quot;=&gt;&quot;&quot;}</name><email>acostaja@gmail.com</email></author><summary type="html">The main difference among winners and losers is the Character.             o            La principal diferencia entre triunfadores y mediocres es el Carácter</summary></entry><entry><title type="html">Example content</title><link href="https://jaacosta.com/2012/02/07/example-content.html" rel="alternate" type="text/html" title="Example content" /><published>2012-02-07T00:00:00-04:30</published><updated>2012-02-07T00:00:00-04:30</updated><id>https://jaacosta.com/2012/02/07/example-content</id><content type="html" xml:base="https://jaacosta.com/2012/02/07/example-content.html">&lt;div class=&quot;message&quot;&gt;
+  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+&lt;/div&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+
+&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+
+&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
+  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+
+&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+
+&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+
+&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console
+&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments
+&lt;/span&gt;
+&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;a&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;return a + b&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// Call the function
+&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
+
+&lt;h3 id=&quot;gists-via-github-pages&quot;&gt;Gists via GitHub Pages&lt;/h3&gt;
+
+&lt;p&gt;Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/5555251.js?file=gist.md&quot;&gt; &lt;/script&gt;
+
+&lt;p&gt;Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.&lt;/p&gt;
+
+&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
+  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+
+&lt;dl&gt;
+  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
+  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+
+  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
+  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+
+  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
+  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
+&lt;/dl&gt;
+
+&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;h3 id=&quot;images&quot;&gt;Images&lt;/h3&gt;
+
+&lt;p&gt;Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://placehold.it/800x400&quot; alt=&quot;placeholder&quot; title=&quot;Large example image&quot; /&gt;
+&lt;img src=&quot;https://placehold.it/400x200&quot; alt=&quot;placeholder&quot; title=&quot;Medium example image&quot; /&gt;
+&lt;img src=&quot;https://placehold.it/200x200&quot; alt=&quot;placeholder&quot; title=&quot;Small example image&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+
+&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Name&lt;/th&gt;
+      &lt;th&gt;Upvotes&lt;/th&gt;
+      &lt;th&gt;Downvotes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tfoot&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Totals&lt;/td&gt;
+      &lt;td&gt;21&lt;/td&gt;
+      &lt;td&gt;23&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tfoot&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Alice&lt;/td&gt;
+      &lt;td&gt;10&lt;/td&gt;
+      &lt;td&gt;11&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bob&lt;/td&gt;
+      &lt;td&gt;4&lt;/td&gt;
+      &lt;td&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Charlie&lt;/td&gt;
+      &lt;td&gt;7&lt;/td&gt;
+      &lt;td&gt;9&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;</content><author><name>Jose Angel Acosta </name></author><summary type="html">Howdy! This is an example blog post that shows several types of HTML content supported in this theme. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur. Inline HTML elements HTML defines a long list of available inline tags, a complete list of which can be found on the Mozilla Developer Network. To bold text, use &amp;lt;strong&amp;gt;. To italicize text, use &amp;lt;em&amp;gt;. Abbreviations, like HTML should use &amp;lt;abbr&amp;gt;, with an optional title attribute for the full phrase. Citations, like — Mark otto, should use &amp;lt;cite&amp;gt;. Deleted text should use &amp;lt;del&amp;gt; and inserted text should use &amp;lt;ins&amp;gt;. Superscript text uses &amp;lt;sup&amp;gt; and subscript text uses &amp;lt;sub&amp;gt;. Most of these elements are styled by browsers with few modifications on our part. Heading Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Code Cum sociis natoque penatibus et magnis dis code element montes, nascetur ridiculus mus. // Example can be run directly in your JavaScript console // Create a function that takes two arguments and returns the sum of those arguments var adder = new Function(&quot;a&quot;, &quot;b&quot;, &quot;return a + b&quot;); // Call the function adder(2, 6); // &amp;gt; 8 Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa. Gists via GitHub Pages Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper. Lists Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Donec id elit non mi porta gravida at eget metus. Nulla vitae elit libero, a pharetra augue. Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue. Vestibulum id ligula porta felis euismod semper. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Maecenas sed diam eget risus varius blandit sit amet non magna. Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis. HyperText Markup Language (HTML) The language used to describe and define the content of a Web page Cascading Style Sheets (CSS) Used to describe the appearance of Web content JavaScript (JS) The programming language used to build advanced Web sites and applications Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo. Images Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at. Tables Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Name Upvotes Downvotes Totals 21 23 Alice 10 11 Bob 4 3 Charlie 7 9 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo. Want to see something else added? Open an issue.</summary></entry></feed>
